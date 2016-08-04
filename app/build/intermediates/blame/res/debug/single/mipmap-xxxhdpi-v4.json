@@ -4,6 +4,10 @@
         "source": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_add_black_24dp.png"
     },
     {
+        "merged": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_taco_green_24dp.png",
+        "source": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_taco_green_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },

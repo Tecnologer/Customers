@@ -610,6 +610,7 @@ int menu main 0x7f0d0000
 int mipmap ic_add_black_24dp 0x7f030000
 int mipmap ic_add_white_24dp 0x7f030001
 int mipmap ic_launcher 0x7f030002
+int mipmap ic_taco_green_24dp 0x7f030003
 int string BtnShowCustomers 0x7f060014
 int string abc_action_bar_home_description 0x7f060000
 int string abc_action_bar_home_description_format 0x7f060001

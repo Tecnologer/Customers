@@ -29,7 +29,7 @@ MERGED from [com.android.support:support-v4:23.4.0] C:\Users\rey\AndroidStudioPr
 	android:allowBackup
 		ADDED from C:\Users\rey\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\rey\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\rey\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:7:9-50
 	android:theme
 		ADDED from C:\Users\rey\AndroidStudioProjects\FirstApp\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.firstapp.rey.firstapp.CustomerList

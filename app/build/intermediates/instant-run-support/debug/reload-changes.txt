@@ -1,3 +1,6 @@
 CHANGED,C:\Users\rey\AndroidStudioProjects\FirstApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,C:\Users\rey\AndroidStudioProjects\FirstApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\firstapp\rey\firstapp\CustomerList$1$override.class
+CHANGED,C:\Users\rey\AndroidStudioProjects\FirstApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\firstapp\rey\firstapp\R$style$override.class
+CHANGED,C:\Users\rey\AndroidStudioProjects\FirstApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\firstapp\rey\firstapp\R$styleable$override.class
+CHANGED,C:\Users\rey\AndroidStudioProjects\FirstApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\firstapp\rey\firstapp\R$string$override.class
+CHANGED,C:\Users\rey\AndroidStudioProjects\FirstApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\firstapp\rey\firstapp\R$mipmap$override.class
 CHANGED,C:\Users\rey\AndroidStudioProjects\FirstApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\firstapp\rey\firstapp\CustomerList$override.class
