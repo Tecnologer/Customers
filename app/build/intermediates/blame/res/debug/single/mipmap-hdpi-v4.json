@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_add_white_24dp.png",
+        "source": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_add_black_24dp.png",
+        "source": "C:\\Users\\rey\\AndroidStudioProjects\\FirstApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_add_black_24dp.png"
+    }
+]

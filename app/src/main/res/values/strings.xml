@@ -1,0 +1,19 @@
+<resources>
+    <!--Customers-->
+    <string name="app_name">Clientes</string>
+    <string name="lblTitleActivity">Nuevo Cliente</string>
+    <string name="lblTitleCustomerList">Listado de Clientes</string>
+    <string name="lblCustomerName">Nombre</string>
+    <string name="lblCustomerPhone">Numero de telefono</string>
+    <string name="lblBtnSaveCustomer">Guardar</string>
+    <string name="BtnShowCustomers">Ver Clientes</string>
+    <string name="msgCustomerSaved">Cliente almacenado correctamente</string>
+    <string name="msgCustomerModified">Cliente actualizado correctamente</string>
+    <string name="msgCustomer_NoRecordFound">No hay clientes registrados</string>
+    <string name="msgCustomerName_Mandatory">El nombre del cliente es requerido</string>
+    <string name="msgCustomerPhone_Mandatory">El numero de telefono es requerido</string>
+    <string name="msgCustomerPhone_Duplicated">El numero de telefono debe ser unico</string>
+    <!--Menu-->
+    <string name="menuTitle">Opciones</string>
+    <string name="lMn_NewCustomers">Nuevo Cliente</string>
+</resources>

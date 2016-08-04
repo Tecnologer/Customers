@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itemCustomers"
+        android:title="@string/lMn_NewCustomers"
+        android:icon="@mipmap/ic_launcher">
+    </item>
+</menu>
